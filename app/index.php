@@ -54,7 +54,7 @@
 
       <div class="starter-template">
         <h1>Hallo <?php echo 'APPUiO User'?></h1>
-        <p class="lead">APPUiO Example Dockerfile PHP</p>
+        <p class="lead">APPUiO Example Dockerfile PHP for Azure</p>
       </div>
 
     </div><!-- /.container -->
